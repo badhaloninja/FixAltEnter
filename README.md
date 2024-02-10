@@ -1,6 +1,6 @@
 ﻿# FixAltEnter
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader/) mod for [Resonite](https://resonite.com/). Fixes returning to fullscreen via alt + enter not respecting monitor resolution
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader/) mod for [Resonite](https://resonite.com/). Fixes alt + enter not respecting monitor resolution
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader/).
